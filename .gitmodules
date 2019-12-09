@@ -1,7 +1,6 @@
 [submodule "lib/CAN_BUS_Shield"]
 	path = lib/CAN_BUS_Shield
 	url = https://github.com/p1ne/CAN_BUS_Shield.git
-
 [submodule "lib/SD"]
 	path = lib/SD
 	url = https://github.com/arduino-libraries/SD.git
